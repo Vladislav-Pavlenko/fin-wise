@@ -9,21 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@prisma/client": "^6.12.0",
     "@ramonak/react-progress-bar": "^5.4.0",
     "@reduxjs/toolkit": "^2.8.2",
     "axios": "^1.10.0",
     "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
     "dotenv": "^17.2.0",
     "formik": "^2.4.6",
     "next": "15.4.1",
     "normalize-scss": "^8.0.0",
+    "prisma": "^6.12.0",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-loader-spinner": "^6.1.6",
     "react-redux": "^9.2.0",
     "recharts": "^3.1.0",
     "redux-persist": "^6.0.0",
-    "yup": "^1.6.1"
+    "yup": "^1.6.1",
+    "zod": "^4.0.5"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
